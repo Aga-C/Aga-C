@@ -2,10 +2,10 @@
 
 ## What I am doing
 
-:pushpin: Translations and proofreading :poland:  
-:pushpin: Testing :mag:  
-:pushpin: Bug fixing (Android) :wrench:  
-:pushpin: Simple functionalities (Android) :pen:
+📌 Translations and proofreading 🇵🇱  
+📌 Testing 🔍  
+📌 Bug fixing (Android) 🔧  
+📌 Simple functionalities (Android) 🖊️
 
 ## My profiles
 
